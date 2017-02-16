@@ -1,0 +1,13 @@
+nav-tab, div{
+  background-color: yellow;
+  border-style: solid;
+}
+
+navigation:link {
+  text-decoration: none;
+  color: red;
+}
+
+div:hover{
+  background-color: blue;
+}
